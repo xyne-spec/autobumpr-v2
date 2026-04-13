@@ -1,3 +1,6 @@
+# This Project has been depricated and is no longer maintained.
+switch to https://github.com/KrishnaSSH/autobumper
+
 # autobumpr-v2
 
 A new and improved version of autobumpr.
